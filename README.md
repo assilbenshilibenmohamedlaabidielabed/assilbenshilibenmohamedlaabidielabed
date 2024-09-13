@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Assil Elabed**  
+Full-Stack JavaScript Developer from Tunisia  
 
-<!--
-**assilbenshilibenmohamedlaabidielabed/assilbenshilibenmohamedlaabidielabed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your image here](Link_to_the_image) <!-- Upload a banner or pixel art of your choice to make it more personalized -->
 
-Here are some ideas to get you started:
+### 💻 Full-Stack web-/mobile developer  
+I'm passionate about creating digital solutions and I love to work with both frontend and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **My Portfolio**
+- 🌱 I’m currently learning **Three.js**
+- 💬 Ask me about **JavaScript, React, Node.js, MySQL, React Native**
+- 📫 How to reach me: **assilbenshilibenmohamedlaabidielabed@gmail.com**  
+
+### Connect with me  
+[LinkedIn](https://www.linkedin.com/in/assil-elabed-051a66272)  
+[GitHub](https://github.com/assilbenshilibenmohamedlaabidielabed)  
+
+### Languages and Tools  
+- JavaScript  
+- React  
+- Node.js  
+- MySQL  
+- Tailwind CSS  
+- Next.js  
+...and many more
+
+---
+
+### Most Used Languages  
+- **TypeScript:** 85.97%  
+- **JavaScript:** 8.87%  
+- **SCSS:** 4.30%
+
+---
+
+### GitHub Stats  
+- ⭐ **Total Stars Earned:** 0  
+- 🛠️ **Total Commits (2024):** 158  
+- 🔧 **Total PRs:** 42  
+- 🐞 **Total Issues:** 0  
+- 🚀 **Contributed to (last year):** 5  
