@@ -2,7 +2,6 @@
 I'm **Assil Elabed**  
 Full-Stack JavaScript Developer from Tunisia  
 
-![Your image here](Link_to_the_image) <!-- Upload a banner or pixel art of your choice to make it more personalized -->
 
 ### 💻 Full-Stack web-/mobile developer  
 I'm passionate about creating digital solutions and I love to work with both frontend and backend technologies.
